@@ -1,0 +1,19 @@
+.container-fluid {
+    background-image: url('https://nadia-onpoint.com/wp-content/uploads/2021/12/Memorable-Movie-Quotes-5-1024x507.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    text-align: right;
+    color: #000000;
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    margin-top: 20px;
+  }

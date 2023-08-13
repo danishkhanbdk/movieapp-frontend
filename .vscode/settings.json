@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bdd5e418-b08f-4817-9728-7155b64834bc/resourceGroups/rg-azuser231_mml.local-n7CRU/providers/Microsoft.Web/sites/movieapp-danish",
+    "appService.deploySubpath": "."
+}
